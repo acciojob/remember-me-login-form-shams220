@@ -2,7 +2,7 @@
       const password = document.querySelector("#password");
       const check    = document.querySelector('input[type="checkbox"]');
       const subBtn   = document.querySelector("#submit");
-      const existingBtn = document.querySelector("#exisiting");
+      const existingBtn = document.querySelector("#existing");
       console.log("check1");
      
         const userData = localStorage.getItem("users");
